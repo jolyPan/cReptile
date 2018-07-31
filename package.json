@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "jsdom": "^11.11.0"
+    "jsdom": "^11.12.0"
   }
 }
